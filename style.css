@@ -1,0 +1,55 @@
+
+
+.wrapper{
+    width:500px;
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+
+}
+
+
+
+
+.heading{
+    position: relative;
+
+
+}
+.header{
+    display: inline-block;
+}
+.htmllogo{
+    float: left;
+    margin-left: 10px;
+    width: 30px;
+}
+.name{
+    float: left;
+    width: 200px;
+}
+.dots{
+    float: right;
+    margin-right: 10px;
+}
+
+img{
+    margin-top: 10px;
+    width: 500px;
+    height: 100%;
+}
+.iconwrapper{
+    position: relative;
+}
+.icons{
+    position: relative;
+    display: inline-block; 
+
+
+}
+.bm{
+    float: right;
+}
+
+
+
